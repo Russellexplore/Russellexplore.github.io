@@ -1,12 +1,9 @@
 Architecture
 
-        ·    2022 Architectural Design Competition for Developing Countries —— Bronze Medal 2023
-
-        ·    International Monument Design Competition —— Shortlisted 2022
-
-        ·    Shanghai Jiao Tong University campus Design creative Invitational finals —— Silver Medal 2021
-
-        ·    Shanghai University Students' Architectural Design Skills Competition —— Bronze Medal 2023
+        ·    2022 Architectural Design Competition for Developing Countries —— Bronze Medal 2023  
+        ·    International Monument Design Competition —— Shortlisted 2022  
+        ·    Shanghai Jiao Tong University campus Design creative Invitational finals —— Silver Medal 2021  
+        ·    Shanghai University Students' Architectural Design Skills Competition —— Bronze Medal 2023  
 
 Mathematics and logical thinking
 
@@ -37,4 +34,3 @@ Comprehensive honor
         ·    The Third-Class Bachelor’s Academic Scholarship at Shanghai Jiao Tong University —— Third-Class 2018
 
         ·    Outstanding graduate of Shanghai Jiao Tong University —— Jun 2022
-        
