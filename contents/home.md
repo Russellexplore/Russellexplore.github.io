@@ -8,23 +8,38 @@ russellauschina@gmail.com/russell@sjtu.edu.cn
 
 #### Education
 Shanghai Jiao Tong University, School of Design
+
 MArch, Urban design and planning &Architecture
+
         ·    The First-Class Master’s Academic Scholarship at Shanghai Jiao Tong University
+
         ·    Supervisor:Wu Jian&Rao Fujie
+
         ·    Research Interest:Research on Urban Planning Based on Data Analysis
 
+
 Shanghai Jiao Tong University, School of Design
+
 BArch, Architecture design and urban design
+
         ·    Bachelor’s Academic Scholarship at Shanghai Jiao Tong University
+
         ·    Outstanding graduate of Shanghai Jiao Tong University
 
+
 Shanghai Jiao Tong University, School of Foreign Languages
+
 Minor in: German 
+
         ·    A+ honorary winner of graduation thesis
 
+
 Zhejiang Zhenhai middle school, Innovation experimental class
+
         ·    Special student in mathematics, admitted by SJTU through trinity comprehensive evaluation
+
         ·    Outstanding graduate of Zhejiang Zhenhai middle school
+        
 
 #### Research Interests
 Deep Learning, Big Data, Transportation, Urban Comprehensive Management, Computational Urban Design.
