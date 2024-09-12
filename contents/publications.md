@@ -1,9 +1,9 @@
-Undergraduate Research Assistant  
+#### Undergraduate Research Assistant  
 School of Design,Shanghai Jiao Tong University  
         ·    Research on Wenchang modern overseas Chinese residence.(Director:Liu Jie)  
              Liu, J. (2024). Wenchang Modern Overseas Chinese Residences. Sanlian Press.  
 
-Graduate Research Assistant  
+#### Graduate Research Assistant  
         ·    Zhu, H.,Wu, J.,Rao, F.(July 2024).A Method for evaluating urban aging walking environment from the perspective of health medical circle: A Case Study of Shanghai Zhongshan Hospital.Transportation Research Part A.(submitted)  
         ·    Zhu, H.,Rao, F.(August 2024).Research on the Spatial Evolutionary Trends of Urban Central Areas in the Post-Pandemic Era.The 7th APRU Sustainable Cities & Landscapes Conference 2024/Manila,Philippines.  
         ·    Zhu, H.,Wu, J.,Rao, F.(July 2024).Using Investigation and Open-Source Data to Detect the Elderly Pedestrian Shed and Walking Environment improvement of Urban General Hospital:A Case Study of Zhongshan Hospital in Shanghai.The 18th International Association for China Planning (IACP) Conference/Hangzhou,China.  
