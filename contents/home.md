@@ -1,7 +1,7 @@
 
 
 
-My future ambitions are to contribute to the field of urban planning through research, whether in governmental roles addressing pressing issues or in academic settings resolving theoretical challenges. Since childhood, my fascination with maps, spent hours contemplating the geographical distribution of nations and cities, has been a harbinger of my passion for urban studies. 
+My aspiration for the future is to contribute to the field of urban planning through research, whether by addressing pressing issues in government departments or tackling theoretical challenges in academic institutions. My research interests lie in harnessing urban big data and employing tools from deep learning to analyze existing urban transportation issues. Furthermore, I am keen on utilizing reinforcement learning and optimization algorithms to predict the future development trajectories of cities. Since childhood, I have been fascinated by maps, spending considerable time contemplating the geographical distribution of nations and cities, which foreshadows my passion for urban studies.  
 
 #### Email
 russellauschina@gmail.com/russell@sjtu.edu.cn
